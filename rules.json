@@ -1,0 +1,15 @@
+{
+  "riskyTlds": ["zip","mov","top","xyz","click","country","support","loan","kim"],
+  "urgentPhrases": [
+    "verify your account","urgent action","suspended","limited","confirm now",
+    "update your payment","reset immediately","unauthorized login","security alert"
+  ],
+  "spoofBrands": ["microsoft","google","apple","paypal","amazon","meta","instagram","whatsapp","netflix","zoom"],
+  "brandDomains": {
+    "microsoft": ["microsoft.com","live.com","office.com","microsoftonline.com"],
+    "google": ["google.com","gmail.com","googleusercontent.com"],
+    "apple": ["apple.com","icloud.com"],
+    "paypal": ["paypal.com"],
+    "amazon": ["amazon.com","amazon.in","aiv-cdn.net"]
+  }
+}

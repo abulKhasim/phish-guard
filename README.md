@@ -17,7 +17,7 @@ Currently built as a **prototype** for hackathon submission.
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/anti-phishing-extension.git
+git clone https://github.com/abulKhasim/phish-guard.git
 cd anti-phishing-extension
 ```
 
